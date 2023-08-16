@@ -1,7 +1,8 @@
 # Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
- ## DEVELOPED BY : BAGGU DHIVYA SHRI
- ## REG NO:212221230009
-
+```
+  DEVELOPED BY : BAGGU DHIVYA SHRI
+  REG NO:212221230009
+```
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
 ## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
 ## Theory 
@@ -293,12 +294,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-## IN FINISHING STATE:
+## CASE1 : ON STATE:
+<img width="293" alt="on r" src="https://github.com/DhivyaShri484/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94505585/027c0a7b-4f51-4848-9d7a-89363f4d175a">
 
- ![pmc 1](https://github.com/DhivyaShri484/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94505585/1cfa13db-9b7d-4c1f-97e0-899993a6d91f)
  
- ## IN OFF STATE:
- ![WhatsApp Image 2023-08-11 at 8 47 41 PM](https://github.com/DhivyaShri484/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94505585/deb38764-a229-454a-af2e-0256868e77c6)
+ ## CASE2 : OFF STATE:
+<img width="250" alt="off r" src="https://github.com/DhivyaShri484/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94505585/26495192-9af6-4872-abe6-e1e75fc025cf">
 
  
 ## Result :
